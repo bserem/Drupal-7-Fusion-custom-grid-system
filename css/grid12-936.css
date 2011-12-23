@@ -1,0 +1,45 @@
+
+/* Layout - 12 column grid, 936px fixed width, 18px gutters
+-------------------------------------------------------------- */
+
+/* grid widths */
+.grid12-1 {width: 78px;}
+.grid12-2 {width: 156px;}
+.grid12-3 {width: 234px;}
+.grid12-4 {width: 312px;}
+.grid12-5 {width: 390px;}
+.grid12-6 {width: 468px;}
+.grid12-7 {width: 546px;}
+.grid12-8 {width: 624px;}
+.grid12-9 {width: 702px;}
+.grid12-10 {width: 780px;}
+.grid12-11 {width: 858px;}
+.grid12-12 {width: 936px;}
+
+/* block indents */
+.grid12-indent-1 {margin-left: 78px;}
+.grid12-indent-2 {margin-left: 156px;}
+.grid12-indent-3 {margin-left: 234px;}
+.grid12-indent-4 {margin-left: 312px;}
+.grid12-indent-5 {margin-left: 390px;}
+.grid12-indent-6 {margin-left: 468px;}
+.grid12-indent-7 {margin-left: 546px;}
+.grid12-indent-8 {margin-left: 624px;}
+.grid12-indent-9 {margin-left: 702px;}
+.grid12-indent-10 {margin-left: 780px;}
+.grid12-indent-11 {margin-left: 858px;}
+
+/* gutters (2 x margin) */
+.gutter {
+  margin-left: 9px;
+  margin-right: 9px;
+}
+
+body,
+div.full-width {
+  min-width: 936px;
+}
+
+#content-content .node .first .inner {
+  margin-right: 18px;
+}
