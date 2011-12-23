@@ -7,4 +7,4 @@ This project started because I wanted to get funky with Git and
 I wanted to share a 936px grid made for a client of mine
 with the rest of the community.
 
-For additions please contact me at bill[at]seremetis[dot]net
+For additions please contact me at bserem@gmail.com
